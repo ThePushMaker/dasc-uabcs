@@ -1,13 +1,8 @@
 <?php
-require_once("headerHome.php");
+require_once('vistas/headerHome.php');
 ?>
 
-<div class="">
-    Aspirantes
-    Estudiantes
-    Egreso
-    Docentes
-</div>
+
 
 </body>
 

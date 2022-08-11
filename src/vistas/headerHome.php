@@ -16,3 +16,10 @@
 </head>
 
 <body>
+<div class="">
+    Aspirantes
+    Estudiantes
+    Egreso
+    Docentes
+</div>
+    
