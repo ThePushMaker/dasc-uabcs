@@ -16,10 +16,28 @@
 </head>
 
 <body>
-<div class="">
-    Aspirantes
-    Estudiantes
-    Egreso
-    Docentes
-</div>
     
+    <div class="container">
+        <header class="d-flex flex-wrap align-items-center justify-content-center justify-content-md-between py-3 mb-4 border-bottom">
+
+        <a href="/" class="d-flex align-items-center col-md-3 mb-2 mb-md-0 text-dark text-decoration-none">
+
+        <img src="https://www.uabcs.mx/assets/images/tail-assets/burguer-b.png" style="color: black;" alt="UABCS" class="p-2">
+
+        </a>
+            <ul class="nav col-12 col-md-auto mb-2 justify-content-center mb-md-0">
+                <li>
+                    <a href="#" nav-link px-2 link-secondary>Aspirantes</a>
+                </li>
+                <li>
+                    <a href="#" nav-link px-2 link-secondary>Estudiantes</a>
+                </li>
+                <li>
+                    <a href="#" nav-link px-2 link-secondary>Egreso</a>
+                </li>
+                <li>
+                    <a href="#" nav-link px-2 link-secondary>Docentes</a>
+                </li>
+            </ul>
+</header>
+    </div>
