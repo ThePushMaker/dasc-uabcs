@@ -1,0 +1,12 @@
+body{
+    margin:0;
+}
+footer{
+    display: flex;
+    justify-content: end;
+    width: auto;
+    background-color: rgb(33, 33, 84);
+    color: rgb(253, 253, 253);
+    margin-bottom: 0;
+    
+}
