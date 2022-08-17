@@ -19,31 +19,35 @@
 
 <body>
     
-    <div class="container">
-        <header class="d-flex flex-wrap align-items-center justify-content-center justify-content-md-between py-3 mb-4 border-bottom">
+    <div class="container-fluid">
+        <header class="d-flex flex-wrap align-items-center justify-content-md-between py-2 border-bottom " >
 
-        <a href="/" class="d-flex align-items-center col-md-3 mb-2 mb-md-0 text-dark text-decoration-none">
+        <a href="/" class="d-flex col-md-2 mb-md-0 text-dark ">
 
         <img src="https://www.uabcs.mx/assets/images/tail-assets/burguer-b.png" style="color: black;" alt="UABCS" class="p-2">
 
         </a>
-            <ul class="nav col-12 col-md-auto mb-2 justify-content-center mb-md-0">
+            <ul class="nav mb-md-0 ">
                 <li>
-                    <a href="#" class="nav-link px-4 link-secondary">Aspirantes</a>
+                    <a href="#" class="nav-link px-7 link-secondary text-dark ">Aspirantes<i class="bi bi-caret-down-fill "></i></a>
                 </li>
                 <li>
-                    <a href="#" class="nav-link px-4 link-secondary">Estudiantes</a>
+                    <a href="#" class="nav-link px-7 link-secondary text-dark">Estudiantes<i class="bi bi-caret-down-fill "></i></a>
                 </li>
                 <li>
-                    <a href="#" class="nav-link px-4 link-secondary">Egreso</a>
+                    <a href="#" class="nav-link px-7 plink-secondary text-dark"> <img src="img/dasc-logo.png" alt="dasc-logo" style="height:54px;" ></a>
+                   
                 </li>
                 <li>
-                    <a href="#" class="nav-link px-4 link-secondary">Docentes</a>
+                    <a href="#" class="nav-link px-7 link-secondary text-dark">Egreso<i class="bi bi-caret-down-fill"></i></a>
+                </li>
+                <li>
+                    <a href="#" class="nav-link px-7 link-secondary text-dark">Docentes<i class="bi bi-caret-down-fill"></i></a>
                 </li>
             </ul>
-            <div class="col-md-3 text-end">
+            <div class="col-md-2 text-end">
                 <i class="bi bi-search"></i>
-                <i class="bi bi-facebook"></i>
+                <img src="img/f-black.png" alt="" style="height: 23px;">
             </div>
 </header>
     </div>
