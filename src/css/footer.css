@@ -1,0 +1,88 @@
+body{
+    margin: 0%;
+}
+#menu{
+    background-color: #18A0FB;
+    list-style-type: none;
+    padding: 5px;
+    margin: auto;
+    width: 100%;
+    top: 50%;
+    text-align: center;
+}
+#menu li a{
+    text-decoration: none;
+    color: white;
+    padding: 20px;
+    display: block;
+}
+#menu li{
+    display: inline-block;
+    text-align: center;
+}
+#menu li a:hover{
+    background-color: bisque;
+}
+#logo{
+    width: 155px;
+    height: 50px;
+}
+#menu p{
+    font-size: 30px;
+    color: white;
+}
+#columnas{
+    column-count: 4;
+    column-gap: 20px;
+    column-rule: 4px gray;
+    list-style-type: none;
+    width: 100%;
+    margin: auto;
+}
+#columnas a {
+    color: #18A0FB;
+}
+#email{
+    color: #18A0FB;
+}
+/*///(Footer)///*/
+
+.container{
+    max-width: 1170px;
+    margin: auto;
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+ul{
+    list-style: none;
+}
+.footer{
+    background-color: #2D6FA4;
+    padding: 70px 0;
+    color: white;
+}
+.footer-col{
+    width: 25%;
+    padding: 0 15px;
+}
+.footer-col h2{
+    font-size: 20px;
+    margin-bottom: 30px;
+    font-weight: 500;
+    position: relative;
+}
+.footer-col ul li{
+    margin-bottom: 30px;
+    
+}
+.footer-col ul li a{
+    color: white;
+    text-decoration: none;
+    transition: all 0.3s ease;
+
+}
+.footer-col ul li a:hover{
+    padding-left: 10px;
+}
