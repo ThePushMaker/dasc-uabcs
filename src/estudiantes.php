@@ -9,7 +9,7 @@
     <title>Document</title>
 </head>
 <body>
-<?php require_once ('vistas/headerHome.php');?>
+<?php require_once ('vistas/header.php');?>
     <main></main>
 <?php require_once ('vistas/footer.php');?>
 
