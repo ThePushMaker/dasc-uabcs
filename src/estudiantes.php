@@ -13,7 +13,5 @@
     <main></main>
 <?php require_once ('vistas/footer.php');?>
 
-<!-- <?php include "../vistas/footer.php";?> -->
-
 </body>
 </html>
