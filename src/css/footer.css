@@ -1,7 +1,40 @@
 body{
     margin: 0%;
 }
+/*///()///*/
+
+.sectionicon{
+    background-color: #2D6FA4;
+}
+
+
+/*///()///*/
+
+.prograacre{
+    font-size: 20px;
+    margin-bottom: 30px;
+    font-weight: 500;
+    position: relative;
+    width: auto;
+    padding: 0 15px;
+}
+.sectionproacre{
+    margin: auto;
+}
+.sectionproacre h2{
+    font-size: 30px;
+}
+.sectionproacre a{
+    font-size: 24px;
+    text-decoration: none;
+}
+.sectionproacre-col{
+    width: 32%;
+    padding: 0 15px;
+}
+
 /*///(Footer)///*/
+
 
 .container{
     max-width: 1170px;

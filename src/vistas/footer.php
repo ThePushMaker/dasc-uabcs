@@ -1,3 +1,25 @@
+<section class="sectionicon">
+
+</section>
+
+<section class="sectionproacre">
+
+    <h2>Programas de Acreditados</h2>
+    <a href="#">Contamos con 2 Programas de Acreditados</a>
+
+    <div class="container">
+        <div class="row">
+            <div class="prograacre">                
+                <img src="img/copaes.png" alt="">
+            </div>
+            <div class="prograacre">
+                <img src="img/conaic.png" alt="">
+            </div>
+        </div>
+    </div>
+
+</section>
+
 <footer class="footer">
     <div class="container">
         <div class="row">
