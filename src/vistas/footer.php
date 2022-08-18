@@ -18,6 +18,7 @@
                     <li><a href="#">Normatividad</a></li>
                     <li><a href="#">Mapa del Campus</a></li>
                     <li><a href="#">Calendario Escolar</a></li>
+                    <li><a class="color" href="#">Calendario Escolar</a></li>
                 </ul>
             </div>
         </div>
