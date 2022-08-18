@@ -1,7 +1,9 @@
 <section class="tituloSeccion">
    <h2>Oferta Académica</h2>
     <div class="subtitulo">
+        <div class="bg_subtitulo">
             <h3>Nivel Técnico</h3>
+        </div>           
     </div>
     <div class="tecnico-contenedor">
         <div class="tecnico">
@@ -9,15 +11,16 @@
                 <h4>Técnico Superior Universitario en Administración de Tecologías de la información</h4>
                 <p>Formar líderes profesionales capaces de gestionar eficientemente la información produciendo y transformando el conocimiento necesario para analizar, diseñar, evaluar e implementar soluciones de Tecnologías de la información acorde a las necesidades de los individuos y organizaciones en un entorno local, regional y nacional con alto sentido ético y social.</p>
             </div>
-            <div class="tecnico-division">
+            <div class="img_tecnico_posgrado">
                 <h4>Tsuati</h4>
                 <button>Ver más</button>
             </div>
         </div>
     </div>
-    
     <div class="subtitulo">
+        <div class="bg_subtitulo">
             <h3>Licenciatura</h3>
+        </div>           
     </div>
     <div class="licenciatura">    
         <div>
@@ -61,16 +64,18 @@
         </div>
     </div> 
     <div class="subtitulo">
-        <h3>Posgrado</h3>
+        <div class="bg_subtitulo">
+            <h3>Posgrado</h3>
+        </div>           
     </div>
     <div class="posgrado-contenedor">
         <div class="posgrado">
             
             <div class="posgrado-texto">
                 <h4>Maestría en Tecnologías de la Información</h4>
-                <h5>Formar recursos humanos de alto nivel de competencia con habilidades, actitudes, destrezas y conocimientos técnicos, administrativos y legales que le permitan diseñar, dirigir, implementar y gestionar el desarrollo de tecnologías de la información que solucionen problemas de su entorno empresarial con la mejor eficiencia, incorporando y adaptando las tecnologías más modernas.</h5>
+                <p>Formar recursos humanos de alto nivel de competencia con habilidades, actitudes, destrezas y conocimientos técnicos, administrativos y legales que le permitan diseñar, dirigir, implementar y gestionar el desarrollo de tecnologías de la información que solucionen problemas de su entorno empresarial con la mejor eficiencia, incorporando y adaptando las tecnologías más modernas.</p>
             </div>
-            <div>
+            <div class="img_tecnico_posgrado">
                 <h4>Mati</h4>
                 <button>Ver más</button>
             </div>

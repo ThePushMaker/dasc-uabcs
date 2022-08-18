@@ -8,11 +8,24 @@ body{
     flex-direction: column;
 }
 h2{
-    
     font-size: 30px;
     text-align: center;
 }
 h3{
+  font-size: 30px;
+  padding-left: 5%;  
+  color: rgb(255, 255, 255);
+}
+.subtitulo{
+    display: flex;
+    width: 100%;
+    height: auto;
+    /* background-color: #ffffff; */
+    
+    align-items: flex-end;
+    justify-content: center;
+}
+.bg_subtitulo{
     display: flex;
     height: 60px;
     width: 90%;
@@ -20,15 +33,6 @@ h3{
     font-size: 30px;
     text-align: left;
     align-items: center;
-}
-.subtitulo{
-    display: flex;
-    width: 100%;
-    height: auto;
-    /* background-color: #2da441; */
-    color: #fff;
-    align-items: flex-end;
-    justify-content: center;
 }
 
 .slide1{
@@ -42,15 +46,36 @@ h3{
 }
 .tecnico, .posgrado{
     display: flex;
-    width: 80%;
+    width: 90%;
+    height: 370px;
     /* background-color: blue; */
 }
 .tecnico-texto, .posgrado-texto{
     display: flex;
     flex-direction: column;
-    width: 50%;
+    margin: auto auto;
+    width: 40%;
+    height: 238px;
     /* background-color: bisque; */
 }
+.img_tecnico_posgrado{
+    margin: auto;
+    background-color: rgba(0, 0, 0,.1);
+    width: 40%;
+    height: 238px;
+    margin: auto auto;
+    /* padding: 0 10px; */
+    border-radius:8px;
+}
+.img_tecnico_posgrado button{
+    background-color: rgba(0,0, 0, 0);
+    border-radius: 5px;
+    border-color: #fff;
+    border-style: ridge;
+    color: #fff;
+
+}
+
 .tecnico-texto h4, .posgrado-texto h4{
     text-align: center;
 }
