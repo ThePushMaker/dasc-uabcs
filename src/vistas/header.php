@@ -15,7 +15,15 @@
     
     <!-- Bootstrap iconos font -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css">
+    <!--Estilos locales-->
     <link rel="stylesheet" href="css/footer.css">
+    <link rel="stylesheet" href="css/oferta.css">
+    <!--slider cdn-->
+    <link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.css"/>
+
+    <script src="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.js"></script>
 </head>
 
 <body>
