@@ -18,8 +18,18 @@
                     <li><a href="#">Normatividad</a></li>
                     <li><a href="#">Mapa del Campus</a></li>
                     <li><a href="#">Calendario Escolar</a></li>
-                    <li><a class="color" href="#">Calendario Escolar</a></li>
                 </ul>
+            </div>
+            <div class="footer-col">
+                <ul>
+                    <li><img src="img/uabcs-lema.png" alt=""></li>
+                    <p>Carretera al Sur KM 5.5 Apartado Postal 19-B CP:23080 La Paz, Baja California Sur, Mexico 
+                        Tel: 612-123-8800</p>
+                </ul>
+            </div>
+            <hr>
+            <div class="footer2">
+                <p>2022 © Universidad Autonoma de Baja California Sur</p>
             </div>
         </div>
     </div>
