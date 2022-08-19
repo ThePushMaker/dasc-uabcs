@@ -1,12 +1,45 @@
 <section class="sectionicon">
-
+<div class="container">
+        <div class="row">
+            <div class="sectionicon-col">
+                <ul>
+                    <li><h1>600+</h1></li>
+                    <li><p>Alumnos</p></li>
+                </ul>
+            </div>
+            <div class="sectionicon-col">
+                <ul>
+                    <li><h1>67</h1></li>
+                    <li><p>Docentes</p></li>
+                </ul>
+            </div>
+            <div class="sectionicon-col">
+                <ul>
+                    <li><h1>3</h1></li>
+                    <li><p>Licenciaturas</p></li>
+                </ul>
+            </div>
+            <div class="sectionicon-col">
+                <ul>
+                    <li><h1>1</h1></li>
+                    <li><p>Posgrado</p></li>
+                </ul>
+            </div>
+            <div class="sectionicon-col">
+                <ul>
+                    <li><h1>1</h1></li>
+                    <li><p>TSU</p></li>
+                </ul>
+            </div>
+        </div>
+    </div>
 </section>
 
 <section class="sectionproacre">
 
     <h2>Programas de Acreditados</h2>
-    <a href="#">Contamos con 2 Programas de Acreditados</a>
-
+    <h2><a href="#">Contamos con 2 Programas de Acreditados</a></h2>
+    
     <div class="container">
         <div class="row">
             <div class="prograacre">                
