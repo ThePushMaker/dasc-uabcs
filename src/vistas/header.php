@@ -22,8 +22,11 @@
     <link rel="stylesheet" href="css/footer.css">
     <link rel="stylesheet" href="css/oferta.css">
     <link rel="stylesheet" href="css/header.css">
+    <link rel="stylesheet" href="css/accesoRapidos.css">
     <!--slider cdn-->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.css" />
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 
     <script src="https://kit.fontawesome.com/63c58a8e1a.js" crossorigin="anonymous"></script>
 

@@ -1,0 +1,25 @@
+body{
+    margin: 0%;
+}
+/*///()///*/
+
+.sectionacces{
+    color: #2D6FA4;
+    text-align: center;
+    padding: 70px 0;
+}
+.sectionacces-col{
+    width: 25%;
+    padding: 0 15px;
+}
+.container{
+    max-width: 1170px;
+    margin: auto;
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+ul{
+    list-style: none;
+}
