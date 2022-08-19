@@ -25,6 +25,8 @@
     <!--slider cdn-->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.css" />
 
+    <script src="https://kit.fontawesome.com/63c58a8e1a.js" crossorigin="anonymous"></script>
+
     <script src="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.js"></script>
 </head>
 

@@ -3,30 +3,35 @@
         <div class="row">
             <div class="sectionicon-col">
                 <ul>
+                    <i class="fa-solid fa-users-line fa-4x"></i>
                     <li><h1>600+</h1></li>
                     <li><p>Alumnos</p></li>
                 </ul>
             </div>
             <div class="sectionicon-col">
                 <ul>
+                    <i class="fa-solid fa-user-tie fa-4x"></i>
                     <li><h1>67</h1></li>
                     <li><p>Docentes</p></li>
                 </ul>
             </div>
             <div class="sectionicon-col">
                 <ul>
+                    <i class="fa-solid fa-tv fa-4x"></i>
                     <li><h1>3</h1></li>
                     <li><p>Licenciaturas</p></li>
                 </ul>
             </div>
             <div class="sectionicon-col">
                 <ul>
+                    <i class="fa-solid fa-pencil fa-4x"></i>
                     <li><h1>1</h1></li>
                     <li><p>Posgrado</p></li>
                 </ul>
             </div>
             <div class="sectionicon-col">
                 <ul>
+                    <i class="fa-solid fa-wrench fa-4x"></i>
                     <li><h1>1</h1></li>
                     <li><p>TSU</p></li>
                 </ul>
