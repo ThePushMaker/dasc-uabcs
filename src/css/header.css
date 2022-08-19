@@ -1,0 +1,64 @@
+.header{
+    height: 63px;
+    justify-content: space-between;
+}
+
+
+/* Mision vision */
+.bienvenida-titulo {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+.bienvenida-titulo h2{
+    font-weight: bold;
+}
+.bienvenida-gris {
+    color: #535D65;
+}
+.v-line{
+    border-left: thick solid #2D6FA4;
+    left: 50%;
+    display:inline;
+   }
+.bienvenida-titulo .v-line{
+    height:62px;
+   }
+.bienvenida-cita .v-line{
+    height:58px;
+}
+
+.bienvenida-carta p{
+    text-align: justify;
+}
+.bienvenida-cita{
+    background-color: #EAEAEA;
+    width: 70%;
+    display: flex;
+    justify-content: left;
+}
+.bienvenida-cita p{
+    display:inline;
+}
+
+/* Mision / vision */
+.mision-vision h4{
+    color: white;
+    font-size: 21px;
+    font-weight: bold;
+}
+
+.mision-titulo {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+
+.mision-titulo .v-line{
+    border-left: thin solid #EAEAEA;
+    height:30px;
+}
+
+.mision-vision p{
+    text-align: justify;
+}
